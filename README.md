@@ -1,5 +1,11 @@
 # Storage-IO-Flight-Recorder PHP SDK
 
+<!-- simple-start:start -->
+Use Storage-IO-Flight-Recorder from a PHP app.
+
+**Start here.** Run `composer require titancsa/storage-io-flight-recorder`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
